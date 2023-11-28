@@ -90,7 +90,7 @@ if ($conn == false)
 
 > **Akses File-->>**[ubah.php](ubah.php)
 
-![4](https://github.com/syifaaurellia/Lab8web/assets/115867244/c0d0a623-d1d5-499a-b663-f92d76ef68ca)
+<img width="960" alt="Cuplikan layar 2023-11-28 202906" src="https://github.com/MohAzmii04/Lab8web/assets/115864496/2998a460-2584-4eb5-afda-85da40c4838f">
 
 10. Menghapus Data (Delete), buat file baru dengan nama `hapus.php`
 ```
