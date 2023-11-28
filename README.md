@@ -103,11 +103,4 @@ header('location: index.php');
 >
 ```
 
-## Result
-
-
-
-https://github.com/syifaaurellia/Lab8web/assets/115867244/d6c5e596-e0e8-40cc-bdf3-c917d7c9292f
-
-
 ## Finish, Terima kasih
